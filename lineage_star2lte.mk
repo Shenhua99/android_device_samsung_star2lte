@@ -32,3 +32,8 @@ PRODUCT_MODEL := SM-G965F
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
+
+BUILD_FINGERPRINT := "google/coral/coral:10/QQ1B.200205.002/6084387:user/release-keys"
+TARGET_DEVICE=star2ltexx \
+PRODUCT_NAME=star2ltexx \
+PRIVATE_BUILD_DESC="star2ltexx-user 10 QP1A.190711.020 G965FXXU7DTAA release-keys"
